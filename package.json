@@ -5,7 +5,7 @@
   "types": "dist/types/index.d.ts",
   "author": "Tanaka Kensaku <tannakaken@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "eslintConfig": {
     "extends": [
       "plugin:react/recommended",
