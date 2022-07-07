@@ -1,0 +1,39 @@
+{
+  "root": true,
+  "extends": [
+    "@react-native-community",
+    "plugin:storybook/recommended",
+    "plugin:jest/recommended"
+  ],
+  "rules": {
+    "quotes": ["error", "double"],
+    "@typescript-eslint/no-unused-vars": "off",
+    "comma-dangle": "off",
+    "react-native/no-inline-styles": "off",
+    "prettier/prettier": "off",
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": ["error"]
+  },
+  "globals": {
+    "atob": true,
+    "Blob": true,
+    "JSX": true,
+    "File": true,
+    "FileReader": true,
+    "localStorage": true,
+    "HTMLElement": true,
+    "HTMLTableRowElement": true,
+    "HTMLCanvasElement": true,
+    "HTMLImageElement": true,
+    "HTMLInputElement": true,
+    "HTMLVideoElement": true,
+    "MediaStream": true,
+    "MediaDeviceInfo": true,
+    "RTCRtpSender": true,
+    "RTCIceCandidate": true,
+    "RTCSessionDescriptionInit": true,
+    "RTCPeerConnection": true,
+    "ImageCapture": true,
+    "location": true
+  }
+}
