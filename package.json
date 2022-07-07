@@ -1,5 +1,5 @@
 {
-  "name": "multi-functional-table",
+  "name": "rakudo-pagination",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
