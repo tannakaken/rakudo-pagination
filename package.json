@@ -6,6 +6,7 @@
   "author": "Tanaka Kensaku <tannakaken@gmail.com>",
   "license": "MIT",
   "private": false,
+  "homepage": "https://github.com/tannakaken/rakudo-pagination",
   "eslintConfig": {
     "extends": [
       "plugin:react/recommended",
